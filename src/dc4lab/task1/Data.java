@@ -1,4 +1,4 @@
-package dc4lab;
+package dc4lab.task1;
 
 /**
  * Created by Proggeo on 3/12/2016.

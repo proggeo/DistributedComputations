@@ -1,11 +1,11 @@
-package dc4lab;
+package dc4lab.task1;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 
-import static dc4lab.ReaderWriter.path;
-import static dc4lab.ReaderWriter.rwl;
+import static dc4lab.task1.ReaderWriter.path;
+import static dc4lab.task1.ReaderWriter.rwl;
 import static java.lang.Thread.sleep;
 
 /**

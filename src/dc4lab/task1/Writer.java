@@ -1,8 +1,8 @@
-package dc4lab;
+package dc4lab.task1;
 
 import java.io.*;
 
-import static dc4lab.ReaderWriter.*;
+import static dc4lab.task1.ReaderWriter.*;
 import static java.lang.Thread.sleep;
 
 /**
