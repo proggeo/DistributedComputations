@@ -92,7 +92,6 @@ public class City {
             }
         }
         for (int i = 0; i < connections.size(); i++) {
-            ArrayList<City> tempRoute = new ArrayList<City>(route);
             boolean used = false;
             for (int j = 0; j < route.size(); j++) {
                 if (route.get(j) == connections.get(i)) used = true;
