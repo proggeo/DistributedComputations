@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e6b9fbb-8b56-4c4b-a402-4078aef3b69b" name="Default" comment="dc5lab task 1&amp;2 commit">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DistributedComputations/dc4lab/task3/City.class" afterPath="$PROJECT_DIR$/out/production/DistributedComputations/dc4lab/task3/City.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dc4lab/task3/City.java" afterPath="$PROJECT_DIR$/src/dc4lab/task3/City.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DistributedComputations/dc4lab/task1/database" afterPath="$PROJECT_DIR$/out/production/DistributedComputations/dc4lab/task1/database" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dc4lab/task1/database" afterPath="$PROJECT_DIR$/src/dc4lab/task1/database" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DistributedComputations/dc4lab/task2/gardenFile" afterPath="$PROJECT_DIR$/out/production/DistributedComputations/dc4lab/task2/gardenFile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dc4lab/task2/gardenFile" afterPath="$PROJECT_DIR$/src/dc4lab/task2/gardenFile" />
+    <list default="true" id="8e6b9fbb-8b56-4c4b-a402-4078aef3b69b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DC_2_Lab.iws" />
@@ -694,12 +688,19 @@
       <workItem from="1457794422961" duration="11259000" />
       <workItem from="1457983050314" duration="19492000" />
       <workItem from="1458395129777" duration="213000" />
-      <workItem from="1458573460847" duration="11850000" />
+      <workItem from="1458573460847" duration="11888000" />
     </task>
+    <task id="LOCAL-00001" summary="dc5lab task 1&amp;2 commit">
+      <created>1458585333657</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1458585333657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86881000" />
+    <option name="totallyTimeSpent" value="86919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
