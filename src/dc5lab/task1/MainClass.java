@@ -8,7 +8,7 @@ import java.util.concurrent.Semaphore;
  * Created by Proggeo on 3/21/2016.
  */
 public class MainClass {
-    static final int size = 3;
+    static final int size = 5;
     static CyclicBarrier cb = new CyclicBarrier(size+1);
     static Boolean stable = false;
     static ArrayList<Recruits> recruits= new ArrayList<>();
